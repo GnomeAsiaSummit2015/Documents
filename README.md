@@ -1,4 +1,4 @@
-GnomeAsiaSummit2015
+Documents Gnome.Asia Summit 2015
 ===================
 
 Repo for public docements
