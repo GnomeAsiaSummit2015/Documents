@@ -1,10 +1,13 @@
-Documents Gnome.Asia Summit 2015
+Documents for Gnome.Asia Summit 2015
 ===================
+Content
 
-Repo for public docements
+* Call For Sponsor Document
+* Logo GNOME.Asia Summit 2015
+* TOR GNOME.Asia Summit 2015
 
-Warna Logo (RGB) = #AA4400FF
+Colour Logo (RGB): #AA4400FF
 
-Font Logo = Buttweasel.ttf
+Font Logo: Buttweasel.ttf
 
-Desain oleh = Aris Winardi (ariswinardy@gmail.com)
+Designer: Aris Winardi (ariswinardy@gmail.com)
